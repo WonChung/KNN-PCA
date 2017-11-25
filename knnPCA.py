@@ -1,5 +1,4 @@
-# MNIST handwritten digit recognition - data file loading demo
-# Written by Matt Zucker, April 2017
+# Starting Code Provided by Matt Zucker
 
 # You can tell this script was written by Won because he imports sys
 import sys
